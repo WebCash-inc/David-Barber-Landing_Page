@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="img/davidb_arber_landing_page.png" width="400"/>
+  <img src="img/david_barber_landing_page.png" width="400"/>
   
   ![David Barber Banner](https://img.shields.io/badge/David%20Barber-Barbearia%20Premium-8B4513?style=for-the-badge)
   
@@ -321,34 +321,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 ---
 
-## 📊 Status do Projeto
-
-![GitHub last commit](https://img.shields.io/github/last-commit/WebCash-inc/DavidBarber?style=flat-square)
-![GitHub issues](https://img.shields.io/github/issues/WebCash-inc/DavidBarber?style=flat-square)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/WebCash-inc/DavidBarber?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/WebCash-inc/DavidBarber?style=flat-square)
-
----
-
-## 🌟 Roadmap
-
-- [x] Sistema básico de agendamento
-- [x] Autenticação de usuários
-- [x] Dashboard administrativo
-- [x] Integração com pagamentos
-- [ ] App mobile (React Native)
-- [ ] Sistema de avaliações
-- [ ] Programa de fidelidade
-- [ ] Integração com redes sociais
-- [ ] Suporte multi-idiomas
-- [ ] API pública para integrações
-
----
-
 <div align="center">
 
-**Desenvolvido por WebCash.
-
-[⬆ Voltar ao topo](#-sobre-o-projeto)
+Desenvolvido por WebCash.
 
 </div>
