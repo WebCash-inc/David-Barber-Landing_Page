@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="img/davidbarber_landing_page.png" width="400"/>
+  <img src="img/davidb_arber_landing_page.png" width="400"/>
   
   ![David Barber Banner](https://img.shields.io/badge/David%20Barber-Barbearia%20Premium-8B4513?style=for-the-badge)
   
